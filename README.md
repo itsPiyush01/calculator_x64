@@ -93,7 +93,7 @@ bash bash_asm.bashrc main.asm
 
   which can do this  whole process of generating object.o file , linking and executing the executable file in just one line. 
 
-  This is very useful for maining the *.asm code. 
+  This is very useful for testing the *.asm code. 
 
   ```bash
   bash bash_asm.bashrc <FILENAME>.asm
