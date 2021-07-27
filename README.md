@@ -12,17 +12,21 @@ Calculator_x64 is a simple calculator written in assembly language.
 
 <div align="center">
  
- <img src="https://img.shields.io/github/languages/code-size/itsPiyush01/calculator_x64?style=flat-square" alt="Code size" />
- <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/itsPiyush01/calculator_x64">
+ <img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/itsPiyush01/calculator_x64?style=flat-square">
+
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/itsPiyush01/calculator_x64?color=orange&style=flat-square">
+
+ <img src="https://img.shields.io/github/languages/code-size/itsPiyush01/calculator_x64?style=flat-square" alt="" />
 
   <img src="https://img.shields.io/github/license/itsPiyush01/calculator_x64?style=flat-square" alt="License" />
 
   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/itsPiyush01/calculator_x64?style=flat-square">
 
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/itsPiyush01/calculator_x64?style=social">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/itsPiyush01/calculator_x64?style=flat-square">
+<!-- 
+ <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/itsPiyush01/calculator_x64?color=red&style=flat-square"> -->
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/itsPiyush01/calculator_x64?color=orange">
-
+ 
 </div>
 
 
